@@ -1,0 +1,31 @@
+@charset "utf-8";
+/* CSS Document */
+p, li {
+	color: blue;
+	font-size: 18px;
+	line-height: 18px;
+	width: 600px;
+	background-color: lightblue;
+	padding: 10px;
+
+}
+h2, h3 {
+	color: skyblue;
+}
+h1 {
+	color: darkblue;
+}
+body {
+	background-color: beige;
+}
+a {
+	color: darkblue;
+	font-size: 18px;
+	line-height: 30px;
+	width: 600px;
+	background-color: wheat;
+	padding: 5px;
+}
+a:hover {
+	background-color: lightcoral;
+}
